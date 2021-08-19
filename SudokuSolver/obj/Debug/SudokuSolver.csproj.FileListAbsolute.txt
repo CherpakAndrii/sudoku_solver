@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\лайнокод всякий\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\User\Desktop\лайнокод всякий\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\User\Desktop\лайнокод всякий\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojAssemblyReference.cache
+C:\Users\User\Desktop\лайнокод всякий\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лайнокод всякий\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\User\Desktop\лайнокод всякий\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
